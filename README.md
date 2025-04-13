@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Zachoria! <br/><a href="https://github.com/TechGirlRia">Programmer</a>, <a href="https://www.linkedin.com/in/zachoria-commander/">Cybersecurity Professional</a>
+<h2>👨‍💻 My Projects:</h2>
+
+- <b>Azure / Cloud Project</b>
+  - [Creating a live HoneyNet](https://github.com/TechGirlRia/Azure_SOC)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="Zachoriacommander | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+ 
+[linkedin]: https://linkedin.com/in/zachoria-commander
 
 <!--
-**TechGirlRia/TechGirlRia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zachoriacommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
