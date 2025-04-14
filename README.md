@@ -1,9 +1,9 @@
 <h1>Hi, I'm Zachoria! <br/><a href="https://github.com/TechGirlRia">Programmer</a>, <a href="https://www.linkedin.com/in/zachoria-commander/">Cybersecurity Professional</a>
 <h2>👨‍💻 My Projects:</h2>
+currently pending
 
-- <b>Azure / Cloud Project</b>
-  - [Creating a live HoneyNet](https://github.com/TechGirlRia/Azure_SOC)
-
+<h2>📈My Certifications</h2>
+-Testout Pc Pro
 
 
 <h2> 🤳 Connect with me:</h2>
